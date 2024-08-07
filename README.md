@@ -9,4 +9,4 @@ Currently, two official plugins are available:
 
 # markdown-previewer
 
-See the code in action: https://codepen.io/Yousef-Rashwan/pen/VwJbXza
+See the code in action: https://codepen.io/Yousef-Rashwan/full/VwJbXza
